@@ -3,7 +3,7 @@
 
 ## I'm a Coder, Student and a Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning scss 🤣
 - 👯 I’m looking to collaborate with other Web Developer
 - 🥅 2022 Goals: Master Web Development
 - ⚡ Fun fact: I love to play Table Tennis , Cricket and to give Presentations
