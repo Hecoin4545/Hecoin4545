@@ -3,7 +3,7 @@
 
 ## I'm a Coder, Student and a Developer!!
 
-- 🌱 I’m currently React Native
+- 🌱 I’m currently Mastering Javasccript
 - 👯 I’m looking to collaborate with other Web Developer
 - 🥅 2022 Goals: Master Web Development And Learn Android Development
 - ⚡ Fun fact: I love to play Table Tennis , Cricket and to give Presentations
