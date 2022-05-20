@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Mastering Javasccript
 - 👯 I’m looking to collaborate with other Web Developer
-- 🥅 2022 Goals: Master Web Development And Learn Android Development
+- 🥅 2022 Goals: Master React.js , Javascript Question Practice , Master Next.js , Master Node + Express + Mongo DB , Learn Strapi And Three.js
 - ⚡ Fun fact: I love to play Table Tennis , Cricket and to give Presentations
 
 ### Connect with me:
