@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Het Shah</h1>
 <h3 align="center">Greetings, my name is Het, and I am a devoted student and accomplished web developer. My areas of expertise encompass a keen interest in the study of geopolitics, alongside my passion for table tennis and cricket. Presently, I am dedicating myself to the pursuit of mastering data science. To date, I have successfully designed and developed over 20 websites, showcasing my exceptional abilities in front-end development, as well as my proficiency in the intricacies of back-end programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
