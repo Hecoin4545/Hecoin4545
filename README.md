@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Het Shah</h1>
-<h3 align="center">Greetings, my name is Het, and I am a devoted student and accomplished web developer. My areas of expertise encompass a keen interest in the study of geopolitics, alongside my passion for table tennis and cricket. Presently, I am dedicating myself to the pursuit of mastering data science. To date, I have successfully designed and developed over 20 websites, showcasing my exceptional abilities in front-end development, as well as my proficiency in the intricacies of back-end programming.</h3>
+<h3 align="center">I am Het Shah, an individual driven by a passion for coding, geopolitics, and a profound desire to explore the global tapestry. With a career spanning over two years, I have established myself as a proficient full-stack web developer, having successfully crafted more than 20 websites that reflect my dedication to delivering outstanding digital solutions.
+
+My professional journey has evolved to embrace the dynamic fields of machine learning and data science, where I am actively engaged in continuous learning. I have achieved a notable 3-star rating in Python on HackerRank, underlining my coding expertise.
+
+Furthermore, my proficiency extends to key data manipulation libraries, namely Pandas and NumPy. These tools have empowered me to harness the potential of data for insightful analysis and informed decision-making. My current focus lies in mastering descriptive statistics, enhancing my data-driven capabilities.
+
+Beyond my professional endeavors, I find fulfillment in physical activities such as volleyball, table tennis, and cricket. These pursuits complement my holistic approach to personal and professional development, fostering a well-rounded and resilient character.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hecoin4545&label=Profile%20views&color=0e75b6&style=flat" alt="hecoin4545" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hecoin4545" alt="hecoin4545" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://hecoin4545.github.io/hetshah/)
+- 🔭 I’m currently working on [Descriptive statistic]
 
-- 🌱 I’m currently learning **Python , Data Science**
+- 🌱 I’m currently learning ** Data Science**
 
 - 👯 I’m looking to collaborate on [Building Website](https://hecoin4545.github.io/manoj-mukund-narvane/)
 
@@ -19,7 +25,7 @@
 
 - 📫 How to reach me **hecoin45@gmail.com**
 
-- ⚡ Fun fact **I love to do research on geopolitics**
+- ⚡ Fun fact **I love to do research on geopolitics, and my dream is to travel the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
