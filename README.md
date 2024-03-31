@@ -11,7 +11,7 @@ Beyond my professional endeavors, I find fulfillment in physical activities such
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hecoin4545" alt="hecoin4545" /></a> </p>
 
-- 🔭 I’m currently working on [Descriptive statistic]
+- 🔭 I’m currently working on [Traveling Index Website]
 
 - 🌱 I’m currently learning ** Data Science**
 
