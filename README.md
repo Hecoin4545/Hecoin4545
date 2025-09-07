@@ -32,13 +32,13 @@
 <img src="https://img.shields.io/badge/github-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/visual%20studio%20code-4D4577?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/node.js-F73C7B?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/mongodb-393359?logo=mongodb&style=for-the-badge&logoColor=F2F2F2"/></p>
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&style=for-the-badge&logoColor=F2F2F2"/></p>
-<img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&style=for-the-badge&logoColor=F2F2F2"/></p>
-<img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=F2F2F2"/></p>
-<img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&style=for-the-badge&logoColor=F2F2F2"/></p>
-<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&style=for-the-badge&logoColor=F2F2F2"/></p>
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&style=for-the-badge&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/mongodb-393359?logo=mongodb&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&style=for-the-badge&logoColor=F2F2F2"/>
 
 ## **You can find me on:**
 
@@ -126,6 +126,7 @@
     <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=The%20secret%20of%20change%20is%20to%20focus%20all%20your%20energy%20not%20on%20fighting%20the%20old%2C%20but%20on%20building%20the%20new.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
